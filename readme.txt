@@ -1,0 +1,1 @@
+The covid_out_analysis.R file contains code to replicate the analyses reported in the main text of the NEJM primary publication for the COVID-OUT trial. The main paper is located here: https://www.nejm.org/doi/full/10.1056/NEJMoa2201662
